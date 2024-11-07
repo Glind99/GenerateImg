@@ -1,0 +1,1 @@
+Exempel som uppfyller kriterierna för denna labb: En app där användaren ombeds ladda upp en fil genom att ge en lokal filsökväg, eller en URL, och får reda på vad bilden innehåller, där intressanta objekt taggas. En miniatyrbild ska skapas. Kanske kan användaren själv välja storleken på miniatyren? Eller vad för output-bild, ska den ha bounding boxes? (
